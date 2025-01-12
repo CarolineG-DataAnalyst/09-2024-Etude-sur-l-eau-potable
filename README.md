@@ -17,11 +17,12 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 Je dois réaliser un tableau de bord pour : 
 - Identifier les pays qui rencontrent des difficultés d’accès à l’eau potable
 - Identifier ceux pour lesquels concentrer nos efforts. 
+
 Pour cela il faudra représenter des indicateurs relatifs aux 3 domaines d'expertise de DWFA
 
 ## Données d'entrée:
 
-- Données csv récupérées par un Data Engineer depusi le site de la FAO
+- Données csv récupérées par un Data Engineer depuis le site de la FAO
 
 ## Les livrables:
 
